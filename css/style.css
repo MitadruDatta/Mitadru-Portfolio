@@ -117,8 +117,8 @@ section {
 }
 
 .home-img>img {
-    width: 40vw;
-    height: 40vw;
+    width: 35vw;
+    height: 35vw;
     object-fit: cover;
 
     border: 3px solid var(--main-color);
